@@ -7,9 +7,10 @@
 
 ## Docentes:
 
+- Jorge Morales
 - Gonzalo Vera
 
-- Jorge Morales
+
 
 
 ## Integrantes:
