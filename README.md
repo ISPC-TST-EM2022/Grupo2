@@ -1,5 +1,5 @@
 
-![Image text](https://github.com/EMTSTISPC/Grupo2/blob/main/Logo%20Tecnicatuta%20Superior%20en%20Telecomunicaciones.PNG)
+[![Nuevo-Logo.jpg](https://i.postimg.cc/XqG4t8Dt/Nuevo-Logo.jpg)](https://postimg.cc/sGrkhpzJ)
 
 # Grupo 2
 
