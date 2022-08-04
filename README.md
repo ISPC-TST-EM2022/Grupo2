@@ -16,7 +16,7 @@
 
 ## Autores :alien:
 
-- [Dario Arriola] (https://github.com/dr-arriola)
+- [Dario Arriola] [(https://github.com/dr-arriola)]
 
 - Marcos Julian Fines
 
