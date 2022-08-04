@@ -17,11 +17,22 @@ Incluir todas las subcarpetas hasta Interrupciones.
 
 ## Este directorio esta compuesto de la siguiente forma:
 
-* Cuadernos
-  - _Esta contiene todos los cuadernos PDF sobre los microcontroladores_
+1. [AVR2.a](https://github.com/Jerec4stro/Grupo2/tree/main/Actividad%201%20AVR/AVR2.a)
+    * [EstructuraControladorAVR8bits.pdf](https://github.com/Jerec4stro/Grupo2/blob/main/Actividad%201%20AVR/AVR2.a/EstructuraControladorAVR8bits.pdf)
+    
 
+2. [AVR2.b](https://github.com/Jerec4stro/Grupo2/tree/main/Actividad%201%20AVR/AVR2.b)
+    
+    * [PeriféricosAVR8bits.pdf](https://github.com/Jerec4stro/Grupo2/blob/main/Actividad%201%20AVR/AVR2.b/Perif%C3%A9ricosAVR8bits.pdf)
 
+3. [Referencia de la gama media mejorada](https://github.com/Jerec4stro/Grupo2/tree/main/Actividad%201%20AVR/Referencia%20de%20la%20gama%20media%20mejorada)
+   
+   * [Referencia de la gama media mejorada.pdf ](https://github.com/Jerec4stro/Grupo2/blob/main/Actividad%201%20AVR/Referencia%20de%20la%20gama%20media%20mejorada/Referencia%20de%20la%20gama%20media%20mejorada.pdf)
 
+4.[README.md](https://github.com/Jerec4stro/Grupo2/blob/main/Actividad%201%20AVR/README.md)
+
+    
+    
 
 
 
