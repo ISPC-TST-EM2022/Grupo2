@@ -3,7 +3,6 @@
 [![Nuevo-Logo.jpg](https://i.postimg.cc/XqG4t8Dt/Nuevo-Logo.jpg)](https://postimg.cc/sGrkhpzJ)
 
 
-### _Grupo 2 para la practica anual de la materia Electronica Microcontrolada_ :computer:
 
 ## Docentes  :neckbeard:
 
@@ -11,8 +10,18 @@
 - [Gonzalo Vera](https://github.com/gonaiot)
 
 
-[![EHil.gif](https://i.postimg.cc/g0pdr6G7/EHil.gif)](https://postimg.cc/pms36rhQ)
+## Estructura de el Repositorio (Con el respectivo README.md de cada carpeta):
+### [ACTIVIDAD_SoC_ESP](https://github.com/EMTSTISPC/Grupo2/tree/main/ACTIVIDAD_SoC_ESP)
+[![imagen.png](https://i.postimg.cc/xdTxsb1m/imagen.png)](https://postimg.cc/PC9QJJZf)
 
+### [Actividad 1 AVR](https://github.com/EMTSTISPC/Grupo2/tree/main/Actividad%201%20AVR)
+[![imagen.png](https://i.postimg.cc/qvZyTtGy/imagen.png)](https://postimg.cc/dhrLRVpV)
+
+### [Prácticas de IO en sistemas embebidos v1.0](https://github.com/EMTSTISPC/Grupo2/tree/main/Pr%C3%A1cticas%20de%20IO%20en%20sistemas%20embebidos%20v1.0)
+[![imagen.png](https://i.postimg.cc/tJT9pgkn/imagen.png)](https://postimg.cc/G8ZWjdZb)
+
+### [Proyecto Shields v1.0](https://github.com/EMTSTISPC/Grupo2/tree/main/Proyecto%20%20Shields%20v1.0)
+_En progreso_ :construction_worker:
 
 ## Autores :alien:
 
