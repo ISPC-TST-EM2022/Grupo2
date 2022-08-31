@@ -36,3 +36,5 @@ _En progreso_ :construction_worker:
 - [Jeremias castro](https://github.com/Jerec4stro)
 
 - [Carla Argentina Wayar](https://github.com/WayarCarla)
+
+- [Oscar Gazzola](https://github.com/OscarAGazzola)
