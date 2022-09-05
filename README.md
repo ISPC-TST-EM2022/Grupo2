@@ -21,17 +21,13 @@
 [![imagen.png](https://i.postimg.cc/tJT9pgkn/imagen.png)](https://postimg.cc/G8ZWjdZb)
 
 ### [Proyecto Shields v1.0](https://github.com/EMTSTISPC/Grupo2/tree/main/Proyecto%20%20Shields%20v1.0)
-_En progreso_ :construction_worker:
+[![image.png](https://i.postimg.cc/wj4TqsNb/image.png)](https://postimg.cc/186ZMXJp)
 
 ## Autores :alien:
 
 - [Dario Arriola](https://github.com/dr-arriola)
 
-- Marcos Julian Fines
-
 - [Daniel Rodriguez](https://github.com/danydeitu) 
-
-- [Natalia Galliani](https://github.com/NataliaGalliani)
 
 - [Jeremias castro](https://github.com/Jerec4stro)
 
