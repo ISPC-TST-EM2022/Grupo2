@@ -31,3 +31,4 @@ fabricante no utilizo protocolos SPI, UART o I2C?
 6) Enumere otros protocolos
 
 ## Estructura de el repositorio:
+[![image.png](https://i.postimg.cc/wj4TqsNb/image.png)](https://postimg.cc/186ZMXJp)
