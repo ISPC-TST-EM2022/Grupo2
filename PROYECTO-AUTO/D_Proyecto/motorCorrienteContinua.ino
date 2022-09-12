@@ -3,13 +3,15 @@
 int  valor = 0;
 int motorAvance = 10; // pin I010
 int motorRetroseso = 11; // pin 
-int OUTPUT=0
+
+
+
 
 
 //configuracion
 void setup()
 {
-    pinMode (0,OUTPUT);
+    pinMode(0,OUTPUT);
 
 //Bucle principal del programa
 void loop()
