@@ -23,7 +23,9 @@
 ### [Proyecto Shields v1.0](https://github.com/EMTSTISPC/Grupo2/tree/main/Proyecto%20%20Shields%20v1.0)
 [![image.png](https://i.postimg.cc/wj4TqsNb/image.png)](https://postimg.cc/186ZMXJp)
 
-### [Proyecto integrador](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/PROYECTO-AUTO/README.md)
+### [Proyecto AUTO ](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/PROYECTO-AUTO/README.md)
+
+
 
 ## Autores :alien:
 
