@@ -10,7 +10,7 @@ int OUTPUT=0
 void setup()
 {
     pinMode (0,OUTPUT);
-
+  }
 //Bucle principal del programa
 void loop()
 {
