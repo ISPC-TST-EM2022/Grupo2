@@ -2,7 +2,7 @@
 //Declaracion de variables
 int  valor = 0;
 int motorAvance = 10; // pin I010
-int motorRetroseso = 11; // pin 
+int motorRetroseso = 11; // pin I011
 
 
 
@@ -11,13 +11,8 @@ int motorRetroseso = 11; // pin
 //configuracion
 void setup()
 {
-<<<<<<< HEAD:PROYECTO-AUTO/D_Proyecto/motorCorrienteContinua.ino
     pinMode(0,OUTPUT);
 
-=======
-    pinMode (0,OUTPUT);
-  }
->>>>>>> 97ecbb179c5f8303056732ed10a7736a01810e50:PROYECTO-AUTO/D_Proyecto/software/PROGRAMAS-MOTOR-DC/motorCorrienteContinua.ino
 //Bucle principal del programa
 void loop()
 {
