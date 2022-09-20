@@ -1,10 +1,16 @@
 
-[![portada-proyecto.jpg](https://i.postimg.cc/jSy8dmyp/portada-proyecto.jpg)](https://postimg.cc/CRLCcvP7)
-
+<h2>PROYECTO DE ELECTRONICA MICROCONTROLADA<h2>
+<h1>AUTO<h1>
 
 ## Docentes:
 - [Jorge Morales](https://github.com/rebmorales)
 - [Gonzalo Vera](https://github.com/gonaiot)
+## Alumnos Integrantes:
+- [Dario Arriola](https://github.com/dr-arriola)
+- [Daniel Rodriguez](https://github.com/danydeitu)
+- [Jeremias castro](https://github.com/Jerec4stro)
+- [Carla Argentina Wayar](https://github.com/WayarCarla)
+- [Oscar Gazzola](https://github.com/OscarAGazzola)
 
 # Actividad:
 
