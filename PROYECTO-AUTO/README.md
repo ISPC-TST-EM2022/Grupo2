@@ -1,7 +1,8 @@
 
 <h2>PROYECTO DE ELECTRONICA MICROCONTROLADA<h2>
 <h1>AUTO<h1>
->>>>>>> daniel
+<h3>GRUPO º 2<H3>
+
 
 ## Docentes:
 
