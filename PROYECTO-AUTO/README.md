@@ -12,7 +12,6 @@
 ## Alumnos Integrantes:
 
 - [Dario Arriola](https://github.com/dr-arriola)
-- [Daniel Rodriguez](https://github.com/danydeitu)
 - [Jeremias castro](https://github.com/Jerec4stro)
 - [Carla Argentina Wayar](https://github.com/WayarCarla)
 - [Oscar Gazzola](https://github.com/OscarAGazzola)
