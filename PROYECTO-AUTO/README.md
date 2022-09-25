@@ -1,7 +1,20 @@
 
 <h2>PROYECTO DE ELECTRONICA MICROCONTROLADA<h2>
 <h1>AUTO<h1>
-<h3>GRUPO º 2<H3>
+
+<br>
+
+<p align="center">
+  <img src="https://i.postimg.cc/3wrWbvTh/auto.jpg" alt="Imagen del proyecto"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://i.postimg.cc/pLLtwYps/frente-auto.jpg" alt="Frente de auto"/>
+</p>
+
+<h3>GRUPO 2<H3>
 
 
 ## Docentes:
@@ -34,9 +47,6 @@ __Donde los detalles de cada carpeta son los siguientes:__
 
 __La 1ra Etapa es de gestacion del proyecto, es decir de la organizacion del mismo, segun se vio en las metodologias presentadas por el profesor Jorge Morales. El plazo termina el Sabado 10 de Septiembre a las 23:59, el dia Lunes 12 de Septiembre un grupo al azar hara la presentacion de su proyecto, con un plazo de 30 minutos, por cuestion de tiempo los demas grupos deberan presentar 1 video de presentacion y organizacion del proyecto de no mas de 30 minutos en formato mp4 donde participen todos los integrantes.__
 
-# Proyecto a realizar:
-
-+ AUTO 🚗
 
 # Diagramas en bloque del sistema IoT
 
