@@ -65,3 +65,4 @@ __La 1ra Etapa es de gestacion del proyecto, es decir de la organizacion del mis
 [![2022-09-16-11-19.jpg](https://i.postimg.cc/cLBFMkdy/2022-09-16-11-19.jpg)](https://postimg.cc/9DzPcp4J)
 
 ### Estructura de el repositorio:
+[![image.png](https://i.postimg.cc/T3VWsx5V/image.png)](https://postimg.cc/K1YzKdNj)
