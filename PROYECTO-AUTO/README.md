@@ -75,7 +75,16 @@ __La 1ra Etapa es de gestacion del proyecto, es decir de la organizacion del mis
 
 <br>
 
+### _Materiales_
+
+https://user-images.githubusercontent.com/109766022/192126091-13653452-dd04-4583-a62c-db8431b181bd.mp4
+
 ### _Los otros videos se pueden ver en el siguiente_[ directorio](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/PROYECTO-AUTO/D_Proyecto/videos)
+
+
+
+
+
 
 
 
