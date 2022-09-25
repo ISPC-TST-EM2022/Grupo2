@@ -66,3 +66,16 @@ __La 1ra Etapa es de gestacion del proyecto, es decir de la organizacion del mis
 
 ### Estructura de el repositorio:
 [![image.png](https://i.postimg.cc/T3VWsx5V/image.png)](https://postimg.cc/K1YzKdNj)
+
+
+## Videos
+
+### _presentacion proyecto final_
+[<img src="https://i.postimg.cc/FKbYHXy9/image.png" width="50%">](https://drive.google.com/file/d/10XKxZMR6urI4dBjZnNCvWtNcuJLn0ddL/view)
+
+<br>
+
+### _Los otros videos se pueden ver en el siguiente_[ directorio](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/PROYECTO-AUTO/D_Proyecto/videos)
+
+
+
