@@ -76,9 +76,10 @@ __La 1ra Etapa es de gestacion del proyecto, es decir de la organizacion del mis
 <br>
 
 ### _presentacion AMPLIACION SEMANA 4_
-[<img src="https://i.postimg.cc/FKbYHXy9/image.png" width="50%">](  https://drive.google.com/file/d/1sjsuiM57Q1AqeP1ogY-181eql2oevadM/view?usp=sharing)
 
-(https://photos.app.goo.gl/kYMokmKU8T46YUzr5)
+ https://drive.google.com/file/d/1sjsuiM57Q1AqeP1ogY-181eql2oevadM/view?usp=sharing
+
+https://photos.app.goo.gl/kYMokmKU8T46YUzr5
 
 <br>
 
