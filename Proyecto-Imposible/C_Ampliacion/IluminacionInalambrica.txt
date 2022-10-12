@@ -1,0 +1,20 @@
+Iluminacion Inalambrica
+
+El sector de iluminación ha ido evolucionando y la posibilidad de controlar una luminaria ha transformado la manera 
+de interaccionar con ella. El auge en las telecomunicaciones 5G y la integración inteligente de todos los productos en los sistemas 
+de iluminación marca nuestro presente y futuro.Las luminarias ya no solo son herramientas de iluminación, el control e integración 
+inalámbrico de todos estos accesorios de iluminación y dispositivos domésticos en la misma red y controlarlos a través de una 
+aplicación es el objetivo actual del mercado. Los usuarios toman las riendas y pueden controlar fácilmente todas las luminarias, 
+sensores o cualquier dispositivo conectado a la red a través de su Smartphone, pc o cualquier dispositivo con bluetooth, 
+gestionando ellos mismos, todo el sistema a su medida.MEAN WELL y Electrónica OLFER implementaron su gama de productos, 
+añadiendo dispositivos con Bluetooth para soluciones de iluminación inteligente IoT. Esta solución IoT, 
+no solo puede conseguir transmisión de datos y audio, sino que también puede conectar dispositivos automáticamente como un sistema 
+de red auto-organizado. Esta nueva tecnología inalámbrica resuelve la problemática de conectar los dispositivos uno a uno. 
+Por otro lado, estos productos IoT cuentan con varios protocolos como Casambi, Silvair y Tuya, proporcionando a los usuarios 
+seleccionar el estándar más adecuado según la región o preferencia personal.Anteriormente, anunciamos desde Electrónica OLFER 
+dos series completas de nuestro proveedor MEAN WELL para satisfacer esta demanda del IoT. Estas series son las LCM IoT y PWM IoT.
+Los divers multicorriente y regulables LCM-25/40/60 IoT, con diseño de corriente constante y corriente ajustable mediante dip-switch, 
+y los drivers regulables PWM-60/120 IoT, con diseño de tensión constante. Con ambas cubrimos las aplicaciones tanto de tensión, 
+como de corriente constante.Ambas series se pueden utilizar para un mismo proyecto. Además, la serie LCM-25/40/60 BLE está diseñada 
+con función de regulación por pulsador para luminarias de un solo grupo. No solo se conserva el uso tradicional, sino que el control 
+de iluminación también se vuelve más inteligente.
