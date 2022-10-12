@@ -72,6 +72,19 @@ __La 1ra Etapa es de gestacion del proyecto, es decir de la organizacion del mis
 
 [![imgage.png](https://i.postimg.cc/FKbYHXy9/image.png)](https://drive.google.com/file/d/10XKxZMR6urI4dBjZnNCvWtNcuJLn0ddL/view)
 
+<<<<<<< HEAD
+=======
+### _presentacion AMPLIACION SEMANA 4_
+
+ https://drive.google.com/file/d/1sjsuiM57Q1AqeP1ogY-181eql2oevadM/view?usp=sharing
+
+https://photos.app.goo.gl/kYMokmKU8T46YUzr5
+
+<br>
+
+
+### _Materiales_
+>>>>>>> 67715fe6d19fd5242bb99684ae9b824db154c327
 
 
 _Materiales_
