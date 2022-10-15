@@ -26,6 +26,8 @@
 ### [Proyecto AUTO ](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/PROYECTO-AUTO/README.md)
 [![image.png](https://i.postimg.cc/T3VWsx5V/image.png)](https://postimg.cc/K1YzKdNj)
 
+### [Proyecto-Imposible](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible)
+[![image.png](https://i.postimg.cc/CLxntqD8/image.png)](https://postimg.cc/jCBjnCMq)
 
 ## Autores :alien:
 
