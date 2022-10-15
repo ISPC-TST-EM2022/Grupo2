@@ -29,11 +29,11 @@ __Donde los detalles de cada carpeta son los siguientes:__
 
 ## Indice
   * [Presentacion](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible#presentacion)
-  * [Diagrama en Bloque](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible/README.md#diagrama-en-bloque-o-iot)
-  * [Diagrama de GANTT](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible/README.md#diagrama-de-gantt)
-  * [Prototipo](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible/README.md#prototipo)
-  * [Esquematico Final](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible/README.md#esquematico-final-real)
-  * [Videos](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible/README.md#videos)
+  * [Diagrama en Bloque](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-en-bloque-o-iot)
+  * [Diagrama de GANTT](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-de-gantt)
+  * [Prototipo](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo)
+  * [Esquematico Final](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#esquematico-final-real)
+  * [Videos](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#videos)
 
 # Presentacion 
 
