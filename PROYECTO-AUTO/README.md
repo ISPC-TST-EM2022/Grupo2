@@ -66,29 +66,20 @@ __La 1ra Etapa es de gestacion del proyecto, es decir de la organizacion del mis
 
 [![image.png](https://i.postimg.cc/T3VWsx5V/image.png)](https://postimg.cc/K1YzKdNj)
 
-## Videos
+# Videos
 
-## *presentacion proyecto final*
+## __presentacion proyecto final__
 
-[![imgage.png](https://i.postimg.cc/FKbYHXy9/image.png)](https://drive.google.com/file/d/10XKxZMR6urI4dBjZnNCvWtNcuJLn0ddL/view)
+<a href="https://drive.google.com/file/d/10XKxZMR6urI4dBjZnNCvWtNcuJLn0ddL/view" align="center" width="100%"><img src="https://i.postimg.cc/FKbYHXy9/image.png" width="100%"></a>
 
-<<<<<<< HEAD
-=======
-### _presentacion AMPLIACION SEMANA 4_
-
- https://drive.google.com/file/d/1sjsuiM57Q1AqeP1ogY-181eql2oevadM/view?usp=sharing
-
-https://photos.app.goo.gl/kYMokmKU8T46YUzr5
-
-<br>
+## __presentacion Semana 4__
 
 
-### _Materiales_
->>>>>>> 67715fe6d19fd5242bb99684ae9b824db154c327
+
+<a href="https://drive.google.com/file/d/1sjsuiM57Q1AqeP1ogY-181eql2oevadM/view?usp=sharing" align="center" width="100%"><img src="https://i.postimg.cc/c4xJ2VKC/image.png" width="100%"></a>
 
 
-_Materiales_
-
-[https://user-images.githubusercontent.com/109766022/192126091-13653452-dd04-4583-a62c-db8431b181bd.mp4]()
+## _Materiales_
+<a href="https://user-images.githubusercontent.com/109766022/192126091-13653452-dd04-4583-a62c-db8431b181bd.mp4" align="center" width="100%"><img src="https://i.postimg.cc/Hx0y4XNh/image.png" width="100%"></a>
 
 ### _Los otros videos se pueden ver en el siguiente_[ directorio](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/PROYECTO-AUTO/D_Proyecto/videos)
