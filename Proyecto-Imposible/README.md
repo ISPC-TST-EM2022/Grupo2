@@ -28,12 +28,12 @@ __Donde los detalles de cada carpeta son los siguientes:__
 * D ) En esta carpeta ira la implementacion del proyecto, con las ramas de HARD y SOFT del desarrollo, donde se plasmara los esquemas electronicos utilizados (simulados o no) y el firmware desarrollado para el prototipo. Pueden utilizar las carpetas auxiliares que consideren necesarias, como ser .SHIELD , . GitIgnore, etc.
 
 ## Indice
-  * [Presentacion](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/edit/main/Proyecto-Imposible/README.md#presentacion)
-  * [Diagrama en Bloque](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/edit/main/Proyecto-Imposible/README.md#diagrama-en-bloque-o-iot)
-  * [Diagrama de GANTT](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/edit/main/Proyecto-Imposible/README.md#diagrama-de-gantt)
-  * [Prototipo](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/edit/main/Proyecto-Imposible/README.md#prototipo)
-  * [Esquematico Final](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/edit/main/Proyecto-Imposible/README.md#esquematico-final-real)
-  * [Videos](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/edit/main/Proyecto-Imposible/README.md#videos)
+  * [Presentacion](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible#presentacion)
+  * [Diagrama en Bloque](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible/README.md#diagrama-en-bloque-o-iot)
+  * [Diagrama de GANTT](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible/README.md#diagrama-de-gantt)
+  * [Prototipo](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible/README.md#prototipo)
+  * [Esquematico Final](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible/README.md#esquematico-final-real)
+  * [Videos](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible/README.md#videos)
 
 # Presentacion 
 
