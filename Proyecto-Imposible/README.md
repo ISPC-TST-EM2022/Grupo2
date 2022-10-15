@@ -99,6 +99,10 @@ __Sistema de Alimentación del prototipo con Energía Solar Fotovoltaico__
 
 <a href="https://drive.google.com/file/d/1MMuRTE7bUCgXhar28KvF3bbga9__CnYc/view" align="center" width="100%"><img src="https://i.postimg.cc/RFQzSZ3t/image.png" width="100%"></a>
 
+__Simulacion PIR, RELE, LOR en Wowki__
+<a href="https://drive.google.com/file/d/1MhAJCVgdBhy-fs3IRIV1_2mMc3h1i9Fd/view" align="center" width="100%"><img src="https://i.postimg.cc/zBhJc2LG/image.png" width="100%"></a>
+
+
 
 
 ## Estructura del Repositorio
