@@ -10,8 +10,9 @@ DESCRIPCION DEL PROBLEMA Y SOLUCION :
 
 https://drive.google.com/file/d/1-cCBG65xNpzIkDygZSetuF5HYjsFPcMO/view?usp=sharing
 
-DIAGRAMA EN BLOQUES : 
+DIAGRAMA EN BLOQUES DEL PROTOTIPO : 
 
+https://drive.google.com/file/d/1HSMEtYRH15dLWmABxNzFoo5DA-VnH4Pr/view?usp=sharing
 
  DIAGRAMA DE GANTT : 
 
