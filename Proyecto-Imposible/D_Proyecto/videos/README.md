@@ -28,3 +28,7 @@ REUNION DEL GRUPO :  https://drive.google.com/file/d/1oqBwH5bwzeOPa2AOl5bS5S0NGN
 SISTEMA DE ENERGIA SOLAR FOTOVOLTAICO - PROTOTIPO : 
 
 https://drive.google.com/file/d/1MMuRTE7bUCgXhar28KvF3bbga9__CnYc/view?usp=sharing
+
+PRESENTACION DEL DIAGRAMA EN BLOQUE DEL PROTOTIPO:
+
+https://drive.google.com/file/d/1HSMEtYRH15dLWmABxNzFoo5DA-VnH4Pr/view?usp=sharing
