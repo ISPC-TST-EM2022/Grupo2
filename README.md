@@ -38,3 +38,4 @@
 - [Carla Argentina Wayar](https://github.com/WayarCarla)
 
 - [Oscar Gazzola](https://github.com/OscarAGazzola)
+- [Daniel Rodriguez](https://github.com/danydeitu)
