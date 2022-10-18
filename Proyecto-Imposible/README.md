@@ -1,6 +1,7 @@
 # Proyecto imposible
 
-[![image.png](https://i.postimg.cc/RZ9PHGnt/image.png)](https://postimg.cc/xcxyrv5j) 
+[![image.png](https://i.postimg.cc/RZ9PHGnt/image.png)](https://postimg.cc/xcxyrv5j)
+
 ## Docentes:
 
 - [Jorge Morales](https://github.com/rebmorales)
@@ -12,6 +13,7 @@
 - [Jeremias castro](https://github.com/Jerec4stro)
 - [Carla Argentina Wayar](https://github.com/WayarCarla)
 - [Oscar Gazzola](https://github.com/OscarAGazzola)
+- [Daniel Rodriguez](https://github.com/danydeitu)
 
 ## Actividad:
 
@@ -28,24 +30,23 @@ __Donde los detalles de cada carpeta son los siguientes:__
 * D ) En esta carpeta ira la implementacion del proyecto, con las ramas de HARD y SOFT del desarrollo, donde se plasmara los esquemas electronicos utilizados (simulados o no) y el firmware desarrollado para el prototipo. Pueden utilizar las carpetas auxiliares que consideren necesarias, como ser .SHIELD , . GitIgnore, etc.
 
 ## Indice
-  * [Presentacion](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible#presentacion)
-  * [Diagrama en Bloque](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-en-bloque-o-iot)
-  * [Diagrama de GANTT](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-de-gantt)
-  * [Prototipo](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo)
-  * [Esquematico Final](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#esquematico-final-real)
-  * [Videos](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#videos)
 
-# Presentacion 
+* [Presentacion](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible#presentacion)
+* [Diagrama en Bloque](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-en-bloque-o-iot)
+* [Diagrama de GANTT](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-de-gantt)
+* [Prototipo](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo)
+* [Esquematico Final](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#esquematico-final-real)
+* [Videos](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#videos)
+
+# Presentacion
 
 <p align="center" width="100%">
     <img width="100%" src="https://i.postimg.cc/sg955c9k/image.png">
 </p>
 
-
 <p align="center" width="100%">
     <img width="100%" src="https://i.postimg.cc/fTMX7PBM/image.png">
 </p>
-
 
 <p align="center" width="100%">
     <img width="100%" src="https://i.postimg.cc/QxLDRLRr/image.png">
@@ -63,7 +64,6 @@ __Donde los detalles de cada carpeta son los siguientes:__
     <img width="100%" src="https://i.postimg.cc/zf9559VW/image.png">
 </p>
 
-
 ## Diagrama en Bloque o IoT
 
 <p align="center" width="100%">
@@ -71,6 +71,7 @@ __Donde los detalles de cada carpeta son los siguientes:__
 </p>
 
 ## Diagrama de GANTT
+
 [![image.png](https://i.postimg.cc/L4Pd2YVq/image.png)](https://postimg.cc/MXz3YGNx)
 
 ## Prototipo
@@ -85,7 +86,7 @@ __Donde los detalles de cada carpeta son los siguientes:__
     <img width="100%" src="https://i.postimg.cc/J44hTCJ4/image.png">
 </p>
 
-## Videos 
+## Videos
 
 __Primera Semana__
 
@@ -100,12 +101,10 @@ __Sistema de Alimentación del prototipo con Energía Solar Fotovoltaico__
 <a href="https://drive.google.com/file/d/1MMuRTE7bUCgXhar28KvF3bbga9__CnYc/view" align="center" width="100%"><img src="https://i.postimg.cc/RFQzSZ3t/image.png" width="100%"></a>
 
 __Simulacion PIR, RELE, LOR en Wowki__
-<a href="https://drive.google.com/file/d/1MhAJCVgdBhy-fs3IRIV1_2mMc3h1i9Fd/view" align="center" width="100%"><img src="https://i.postimg.cc/zBhJc2LG/image.png" width="100%"></a>
-
-
-
+`<a href="https://drive.google.com/file/d/1MhAJCVgdBhy-fs3IRIV1_2mMc3h1i9Fd/view" align="center" width="100%"><img src="https://i.postimg.cc/zBhJc2LG/image.png" width="100%">``</a>`
 
 ## Estructura del Repositorio
+
 [![image.png](https://i.postimg.cc/CLxntqD8/image.png)](https://postimg.cc/jCBjnCMq)
 
 <!-- 
