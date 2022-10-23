@@ -101,7 +101,13 @@ __Sistema de Alimentación del prototipo con Energía Solar Fotovoltaico__
 <a href="https://drive.google.com/file/d/1MMuRTE7bUCgXhar28KvF3bbga9__CnYc/view" align="center" width="100%"><img src="https://i.postimg.cc/RFQzSZ3t/image.png" width="100%"></a>
 
 __Simulacion PIR, RELE, LOR en Wowki__
-`<a href="https://drive.google.com/file/d/1MhAJCVgdBhy-fs3IRIV1_2mMc3h1i9Fd/view" align="center" width="100%"><img src="https://i.postimg.cc/zBhJc2LG/image.png" width="100%">``</a>`
+<a href="https://drive.google.com/file/d/1MhAJCVgdBhy-fs3IRIV1_2mMc3h1i9Fd/view" align="center" width="100%"><img src="https://i.postimg.cc/zBhJc2LG/image.png" width="100%"></a>
+
+__Implementación Version 1__
+<a href="https://drive.google.com/file/d/1SRwIjoIRj_n6FdLI1asVH8HZt3ACnQjz/view" align="center" width="100%"><img src="https://i.postimg.cc/B6DXKjg5/image.png" width="100%"></a>
+
+__Comunicacion SMS en funcionamiento__
+<a href="https://drive.google.com/file/d/18j1fjEmGHamY0BXElH4AOMujn_Mvlo2i/view" align="center" width="100%"><img src="https://i.postimg.cc/K8wGDZ40/image.png" width="100%"></a>
 
 ## Estructura del Repositorio
 
