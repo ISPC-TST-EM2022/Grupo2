@@ -33,3 +33,9 @@ https://drive.google.com/file/d/1MMuRTE7bUCgXhar28KvF3bbga9__CnYc/view?usp=shari
 PRESENTACION DEL DIAGRAMA EN BLOQUE DEL PROTOTIPO:
 
 https://drive.google.com/file/d/1HSMEtYRH15dLWmABxNzFoo5DA-VnH4Pr/view?usp=sharing
+
++ SEMANA 3:
+
+PRESENTACION PROYECTO FUNCIONANDO:
+
+https://drive.google.com/file/d/18j1fjEmGHamY0BXElH4AOMujn_Mvlo2i/view?usp=sharing
