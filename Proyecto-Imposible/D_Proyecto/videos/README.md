@@ -36,6 +36,14 @@ https://drive.google.com/file/d/1HSMEtYRH15dLWmABxNzFoo5DA-VnH4Pr/view?usp=shari
 
 + SEMANA 3:
 
-PRESENTACION PROYECTO FUNCIONANDO:
+
+PRESENTACION PROYECTO FUNCIONANDO SIN SIM 800 L :
+
+https://drive.google.com/file/d/1SRwIjoIRj_n6FdLI1asVH8HZt3ACnQjz/view?usp=drivesdk
+
+
+PRESENTACION PROYECTO FUNCIONANDO CON SIM 800 L :
 
 https://drive.google.com/file/d/18j1fjEmGHamY0BXElH4AOMujn_Mvlo2i/view?usp=sharing
+
+
