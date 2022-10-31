@@ -32,10 +32,12 @@ __Donde los detalles de cada carpeta son los siguientes:__
 ## Indice
 
 * [Presentacion](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible#presentacion)
-* [Diagrama en Bloque](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-en-bloque-o-iot)
+* [Diagrama en Bloque del prototipo real](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-en-bloque-o-iot)
 * [Diagrama de GANTT](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-de-gantt)
-* [Prototipo](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo)
-* [Esquematico Final](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#esquematico-final-real)
+* [Prototipo v1](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo)
+* [Esquematico v1 ](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.
+* [Prototipo v2]()
+* [Esquematico v2]()
 * [Videos](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#videos)
 
 # Presentacion
@@ -64,7 +66,7 @@ __Donde los detalles de cada carpeta son los siguientes:__
     <img width="100%" src="https://i.postimg.cc/zf9559VW/image.png">
 </p>
 
-## Diagrama en Bloque o IoT
+## Diagrama en Bloque o IoT del Sistema Real
 
 <p align="center" width="100%">
     <img width="100%" src="https://i.postimg.cc/nzt4mP6f/image.png">
@@ -74,16 +76,27 @@ __Donde los detalles de cada carpeta son los siguientes:__
 
 [![image.png](https://i.postimg.cc/L4Pd2YVq/image.png)](https://postimg.cc/MXz3YGNx)
 
-## Prototipo
+## Prototipo V1
 
 <p align="center" width="100%">
     <img width="100%" src="https://i.postimg.cc/prY6w8M3/image.png">
 </p>
 
-## Esquematico Final Real
+## Esquematico V1
 
 <p align="center" width="100%">
     <img width="100%" src="https://i.postimg.cc/J44hTCJ4/image.png">
+</p>
+## Prototipo V2
+
+<p align="center" width="100%">
+    <img width="100%" src=" (https://i.postimg.cc/rm23T95P/PDF3-page-0001.jpg)](https://postimg.cc/LqvNBLCt">
+</p>
+
+## Esquematico V2
+
+<p align="center" width="100%">
+    <img width="100%" src="https://i.postimg.cc/MKMtpQt0/ESQUEMATICO2.jpg)](https://postimg.cc/4mGp8nDn">
 </p>
 
 ## Videos
@@ -106,7 +119,7 @@ __Simulacion PIR, RELE, LOR en Wowki__
 __Implementación Version 1__
 <a href="https://drive.google.com/file/d/1SRwIjoIRj_n6FdLI1asVH8HZt3ACnQjz/view" align="center" width="100%"><img src="https://i.postimg.cc/B6DXKjg5/image.png" width="100%"></a>
 
-__Comunicacion SMS en funcionamiento__
+__Implementacion V2 - Comunicacion SMS en funcionamiento__
 <a href="https://drive.google.com/file/d/18j1fjEmGHamY0BXElH4AOMujn_Mvlo2i/view" align="center" width="100%"><img src="https://i.postimg.cc/K8wGDZ40/image.png" width="100%"></a>
 
 ## Estructura del Repositorio
