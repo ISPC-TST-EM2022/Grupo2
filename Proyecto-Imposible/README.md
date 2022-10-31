@@ -79,14 +79,15 @@ __Donde los detalles de cada carpeta son los siguientes:__
 ## Prototipo V1
 
 <p align="center" width="100%">
-    <img width="100%" src="https://i.postimg.cc/prY6w8M3/image.png">
+    <img width="100%" src=" https://i.postimg.cc/YCsTnW8h/PDF1-page-0001.jpg)](https://postimg.cc/K1t94462">
 </p>
 
 ## Esquematico V1
 
 <p align="center" width="100%">
-    <img width="100%" src="https://i.postimg.cc/J44hTCJ4/image.png">
+    <img width="100%" src=" https://i.postimg.cc/R0GJxv66/equematicov1.jpg)](https://postimg.cc/qthv8VG4 ">
 </p>
+
 ## Prototipo V2
 
 <p align="center" width="100%">
