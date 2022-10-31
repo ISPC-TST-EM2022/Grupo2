@@ -46,4 +46,6 @@ PRESENTACION PROYECTO FUNCIONANDO CON SIM 800 L :
 
 https://drive.google.com/file/d/18j1fjEmGHamY0BXElH4AOMujn_Mvlo2i/view?usp=sharing
 
++ PRESENTACION FINAL
+ + presentacion_final.pdf  ARCHIVO QUE SE USA PARA LA EXPSICION DEL TP FINAL
 
