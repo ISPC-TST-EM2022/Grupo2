@@ -85,7 +85,7 @@ __Donde los detalles de cada carpeta son los siguientes:__
 ## Esquematico V1
 
 <p align="center" width="100%">
-    <img width="100%" src=" https://i.postimg.cc/R0GJxv66/equematicov1.jpg ">
+    <img width="100%" src=" [![equematicov1.jpg](https://i.postimg.cc/R0GJxv66/equematicov1.jpg)](https://postimg.cc/qthv8VG4) ">
 </p>
 
 ## Prototipo V2
