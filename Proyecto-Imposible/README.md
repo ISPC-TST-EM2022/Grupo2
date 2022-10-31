@@ -34,10 +34,10 @@ __Donde los detalles de cada carpeta son los siguientes:__
 * [Presentacion](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/tree/main/Proyecto-Imposible#presentacion)
 * [Diagrama en Bloque del prototipo real](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-en-bloque-o-iot)
 * [Diagrama de GANTT](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-de-gantt)
-* [Prototipo v1](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo)
-* [Esquematico v1 ](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.
-* [Prototipo v2]
-* [Esquematico v2]
+* [Prototipo v1](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo-v1)
+* [Esquematico v1 ]( https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#esquematico-v1)
+* [Prototipo v2] (https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo-v2)
+* [Esquematico v2](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#esquematico-v2)
 * [Videos](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#videos)
 
 # Presentacion
@@ -111,10 +111,10 @@ __Sistema de Alimentación del prototipo con Energía Solar Fotovoltaico__
 __Simulacion PIR, RELE, LOR en Wowki__
 <a href="https://drive.google.com/file/d/1MhAJCVgdBhy-fs3IRIV1_2mMc3h1i9Fd/view" align="center" width="100%"><img src="https://i.postimg.cc/zBhJc2LG/image.png" width="100%"></a>
 
-__Implementación Version 1__
+## Implementación Version 
 <a href="https://drive.google.com/file/d/1SRwIjoIRj_n6FdLI1asVH8HZt3ACnQjz/view" align="center" width="100%"><img src="https://i.postimg.cc/B6DXKjg5/image.png" width="100%"></a>
 
-__Implementacion V2 - Comunicacion SMS en funcionamiento__
+## Implementacion V2 - Comunicacion SMS en funcionamiento
 <a href="https://drive.google.com/file/d/18j1fjEmGHamY0BXElH4AOMujn_Mvlo2i/view" align="center" width="100%"><img src="https://i.postimg.cc/K8wGDZ40/image.png" width="100%"></a>
 
 ## Estructura del Repositorio
