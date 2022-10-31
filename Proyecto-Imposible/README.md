@@ -78,9 +78,7 @@ __Donde los detalles de cada carpeta son los siguientes:__
 
 ## Prototipo V1
 
-<p align="center" width="100%">
-    <img width="100%" src=" https://i.postimg.cc/YCsTnW8h/PDF1-page-0001.jpg">
-</p>
+[![PDF1-page-0001.jpg](https://i.postimg.cc/YCsTnW8h/PDF1-page-0001.jpg)](https://postimg.cc/K1t94462)
 
 ## Esquematico V1
 
@@ -88,9 +86,7 @@ __Donde los detalles de cada carpeta son los siguientes:__
 
 ## Prototipo V2
 
-<p align="center" width="100%">
-    <img width="100%" src=" (https://i.postimg.cc/rm23T95P/PDF3-page-0001.jpg">
-</p>
+[![PDF3-page-0001.jpg](https://i.postimg.cc/rm23T95P/PDF3-page-0001.jpg)](https://postimg.cc/LqvNBLCt)
 
 ## Esquematico V2
 
