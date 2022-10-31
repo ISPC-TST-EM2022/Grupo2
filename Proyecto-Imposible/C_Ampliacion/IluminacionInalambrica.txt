@@ -18,3 +18,6 @@ y los drivers regulables PWM-60/120 IoT, con diseño de tensión constante. Con 
 como de corriente constante.Ambas series se pueden utilizar para un mismo proyecto. Además, la serie LCM-25/40/60 BLE está diseñada 
 con función de regulación por pulsador para luminarias de un solo grupo. No solo se conserva el uso tradicional, sino que el control 
 de iluminación también se vuelve más inteligente.
+
+Link de propuesta de Ampliación.
+https://www.redalyc.org/journal/5055/505571720004/html/
