@@ -36,7 +36,7 @@ __Donde los detalles de cada carpeta son los siguientes:__
 * [Diagrama de GANTT](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#diagrama-de-gantt)
 * [Prototipo v1](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo-v1)
 * [Esquematico v1 ]( https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#esquematico-v1)
-* [Prototipo v2] (https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo-v2)
+* [Prototipo v2](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#prototipo-v2)
 * [Esquematico v2](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#esquematico-v2)
 * [Videos](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo2/blob/main/Proyecto-Imposible/README.md#videos)
 
